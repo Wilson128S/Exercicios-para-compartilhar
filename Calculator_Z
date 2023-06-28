@@ -1,6 +1,6 @@
 # O conteúdo abaixo, foi elaborado a partir das informações do site https://www.digitalocean.com/
-Os direitos autorais pertencem a eles, e, publico aqui o conteúdo apenas com fins de exemplificar a quem se interessar, o script de uma calculadora em linhas de comando na linguagem Python. 
-Espero que ajude muitos a esclarecer um pouco como se faz um script de software. No meu caso me ajudou bastante a entender a lógica de programação de uma calculadora na prática.
+'''Os direitos autorais pertencem a eles, e, publico aqui o conteúdo apenas com fins de exemplificar a quem se interessar, o script de uma calculadora em linhas de comando na linguagem Python. 
+Espero que ajude muitos a esclarecer um pouco como se faz um script de software. No meu caso me ajudou bastante a entender a lógica de programação de uma calculadora na prática.'''
 
 # Define our function
 def calculate():
